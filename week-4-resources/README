@@ -1,0 +1,13 @@
+This folder contains the code resources for week 4.
+
+* 4-1_dataframes_snippets.py  : commands from Lesson 4.1 `Dataframes'
+* 4-2_pipelines_snippets.py  : commands from Lesson 4.2 `Pipelines and cacheing'
+* 4-3_performance_snippets.py  : commands from Lesson 4.3 `Spark performance'
+* 4-5_spark_examples_snippets.py  : commands from Lesson 4.5 `Spark examples'
+
+* genderpronoun/  
+	gender_pronoun.py : an example gender pronoun counting script relating to this week's assignment
+	gender_pronoun.json/
+		part-00000 : the first few lines of an example solution to this week's assignment
+	pgcat.json/
+		part-00000 : an example solution to last week's assessment (note it is not perfect!)

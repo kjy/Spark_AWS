@@ -1,0 +1,9 @@
+This folder contains the code resources for week 2.
+
+* 2-2_read_write_data_snippets.py  : commands from Lesson 2-2, `Using Spark methods to read and write data'
+* 2-3_boto3_snippets.py  : commands from Lesson 2-3, `Using Boto3 to read data on S3'
+
+* gutenberg_sub.zip : zip with data and scripts required for Lesson 2.1, `Preparing the data set'
+
+The data subset is also available to download (or curl) from the Lesson 2.1 Reading, `Get the Gutenberg Project dataset'.
+

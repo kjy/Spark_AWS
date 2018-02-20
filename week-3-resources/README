@@ -1,0 +1,10 @@
+This folder contains the resources for week 3.
+
+* 3-1_regex_snippets.py  : commands from Lesson 3.1 `Regex primer (or reminder)'
+* 3-3_rdflib_snippets.py  : commands from Lesson 3.3 `Working with RDFLib'
+* pg30291.rdf : the rdf file Christophe uses in his Lesson 3.3 examples
+
+* pgcat/  
+	pgcat.py : an example script to generate the catalogue file required by this week's assignment
+	pgcat.json/
+		part-00000 : the first few lines of an example solution to this week's assignment
